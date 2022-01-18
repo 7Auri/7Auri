@@ -27,3 +27,4 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=7auri&show_icons=true&theme=dark&locale=en&layout=compact" alt="7auri" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=7auri&theme=dark" alt="7auri" /></p>
+<div  align="center"> <img src="https://github.com/7Auri/7Auri/blob/output/github-contribution-grid-snake.svg" /></div>
