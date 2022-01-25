@@ -13,7 +13,7 @@
 
 - 🔭 I’m currently working on [Personal Portfolio](https://github.com/Auri-Zorbey/Personal-Portfolio)
 
-- 🌱 I’m currently learning **.Net,JavaScript,React**
+- 🌱 I’m currently learning **.Net, JavaScript ,React**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
