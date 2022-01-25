@@ -11,7 +11,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=7auri" alt="7auri" /></a> </p>
 
-- 🔭 I’m currently working on [Personal Portfolio](https://github.com/Auri-Zorbey/Personal-Portfolio)
+
 
 - 🌱 I’m currently learning **.Net, JavaScript ,React**
 
