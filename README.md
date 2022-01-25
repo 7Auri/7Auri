@@ -2,7 +2,7 @@
 
   
 <h1 align="center">Hi ☺️  I'm Büşra</h1>
-<h3 align="center">A passionate frontend developer from Turkey</h3>
+<h3 align="center">A passionate Software developer from Turkey</h3>
 
 
  [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/7Auri?cardType=github&theme=tokyonight&Ring=1A19FF)](https://git.io/awesome-stats-card)
