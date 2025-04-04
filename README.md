@@ -13,8 +13,8 @@
 
 
 
-- 🌱 I’m currently learning **.Net, JavaScript ,React**
-- 💬 Ask me about <b>C#, .Net, WebApi, SQL, Postgresql, Mssql, MongoDB, Hangfire, CSS, HTML, JavaScript… 
+- 🌱 I’m currently learning **.Net, Swift**
+- 💬 Ask me about <b>C#, .Net, Api, SQL, Postgresql, Mssql, MongoDB, Hangfire, CSS, HTML, JavaScript… 
 - 📫 How to reach me **yesilalioglubusra@gmail.com** </b>
 
 <h3 align="left">Connect with me:</h3>
